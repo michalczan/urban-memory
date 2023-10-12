@@ -1,28 +1,18 @@
 .head{
-    color: #AF42AE;
+    color: blue;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: fantasy;
     font-size: 32px;
 }
-pre{
-    background-color: #BC69AA;
-    color: white;
-    text-align: center;
+.BackgrndImg{
+    background-image:url("../img/R.jpg") ;
 }
-.body{
-    border: 5px;
-    border-color: #BC69AA;
-    border-style: solid;
-} 
-ul{
-    border: 5px;
-    border-color: #C585B3;
-    border-style: solid;
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:#C585B3;
+    background-color: black;
   }
   
   li {
